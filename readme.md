@@ -1,4 +1,3 @@
-
 ---
 title: "Lautstärkesensor"
 date: "2018-10-01T13:57:42.000Z"
