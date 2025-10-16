@@ -33,8 +33,6 @@ Alle weiteren Hintergrundinformationen, sowie ein Beispielaufbau und alle notwen
 Die genaue Bezeichnung des Sensors, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet LM2904.
 
 <!-- infolist -->
-
-<!-- infolists -->
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/A4VYpebn1BQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
  
