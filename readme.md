@@ -16,9 +16,6 @@ repo_part: "Grove_Loudness_Sensor"
 product_url: "https://wiki.seeedstudio.com/Grove-Loudness_Sensor/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Loudness_Sensor.git"
 embedded_example_file: "examples/Grove_Loudness_Sensor_minimal/Grove_Loudness_Sensor_minimal.ino"
-title: 'Lautstärkesensor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
